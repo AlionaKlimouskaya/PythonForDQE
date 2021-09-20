@@ -43,6 +43,12 @@ for element in sorted_list:
 even_average = round(even_sum / even_count, 2)
 odd_average = round(odd_sum / odd_count, 2)
 
+# Task 3. Calculate average for even and odd numbers with using list comprehension
+only_odd = [num for num in sorted_list if num % 2 == 1]
+only_even = [num for num in sorted_list if num % 2 == 0]
+
 # Task 4. Print both average result in console
-print("Average for even numbers: ", even_average)
-print("Average for odd numbers: ", odd_average)
+print("Average for even numbers (version 1): ", even_average)
+print("Average for odd numbers (version 1): ", odd_average)
+print("Average for even numbers (version 2): ", round(sum(only_even)/len(only_even), 2))
+print("Average for odd numbers (version 2): ", round(sum(only_odd)/len(only_odd), 2))
