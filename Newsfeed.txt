@@ -1,0 +1,16 @@
+
+News -------------------------
+Testing news
+Minsk, 07-10-2021 10:21
+------------------------------
+
+Private Ad -------------------
+Testing private ad
+Actual until: 2021-10-13, 6 days left
+------------------------------
+
+Lost And Found ---------------
+Testing lost-and-found
+Item status: lost, Lost-and-found station number: 4792
+------------------------------
+
