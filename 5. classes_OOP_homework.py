@@ -71,7 +71,7 @@ class LostAndFound(NewsFeedTool):
     def item_status_validation(self):
         item_status = input("Enter the status of item (lost or found): ")
         while item_status.lower() not in ['lost', 'found']:
-            print("The status of item can be LOST of FOUND only.")
+            print("The status of item can be LOST or FOUND only.")
             item_status = input("Enter the status of item (lost or found): ")
         return item_status
 
