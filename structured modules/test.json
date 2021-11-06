@@ -1,0 +1,19 @@
+{
+  "newsfeed_1": {
+    "msg_type": "news",
+    "text": "Good news everywhere",
+    "city": "London",
+    "publish_date": "11-10-2021 10:13"
+  },
+    "newsfeed_2": {
+    "msg_type": "privatead",
+    "text": "Selling bike",
+    "exp_date": "11-12-2021"
+  },
+    "newsfeed_3": {
+    "msg_type": "lostandfound",
+    "text": "Found pretty doggo",
+    "item_status": "found",
+    "lost_and_found": "232"
+  }
+}

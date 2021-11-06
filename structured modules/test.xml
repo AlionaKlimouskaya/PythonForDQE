@@ -1,0 +1,19 @@
+<messages>
+ <message>
+   <msg_type>news</msg_type>
+   <text>Something Happened</text>
+   <city>Madrid</city>
+   <publish_date>11-10-2021 10:11</publish_date>
+ </message>
+ <message>
+   <msg_type>privatead</msg_type>
+   <text>Selling Flat</text>
+   <exp_date>11-12-2021</exp_date>
+ </message>
+ <message>
+   <msg_type>lostandfound</msg_type>
+   <text>Found pretty cat</text>
+   <item_status>found</item_status>
+   <lost_and_found>655</lost_and_found>
+ </message>
+</messages>
